@@ -1,0 +1,9 @@
+.row > [class^="col-"] {
+		padding-top: .75rem;
+		padding-bottom: .75rem;
+		background-color: rgba(39,41,43,0.03);
+		border: 1px solid rgba(39,41,43,0.1);
+	}
+.list-group [class^="list-group-item list-group-item-action"] {
+		cursor:pointer;
+	}
